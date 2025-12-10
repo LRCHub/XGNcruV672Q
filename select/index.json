@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Go the Distance",
+  "base_artist": "Michael Bolton",
+  "createdAt": "2025-12-10T11:00:09.200829Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go The Distance",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/01_Go_The_Distance_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Go the Distance (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/02_Go_the_Distance_(Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Go the Distance",
+      "artist": "Emma Blackery",
+      "has_synced": true,
+      "path": "select/03_Go_the_Distance_Emma_Blackery.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Go the Distance",
+      "artist": "Michael Bolton",
+      "has_synced": true,
+      "path": "select/04_Go_the_Distance_Michael_Bolton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Importa la Distancia (Go the Distance)",
+      "artist": "Ricky Martin",
+      "has_synced": true,
+      "path": "select/05_No_Importa_la_Distancia_(Go_the_Distance)_Ricky_Martin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Go the Distance - From \"Hercules\" / Soundtrack Version",
+      "artist": "Alan Menken feat. Roger Bart",
+      "has_synced": true,
+      "path": "select/06_Go_the_Distance_-_From__Hercules____Soundtrack_Version_Alan_Menken_feat._Roger_Bart.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Go the Distance (from Hercules)",
+      "artist": "Alan Menken feat. Roger Bart",
+      "has_synced": true,
+      "path": "select/07_Go_the_Distance_(from_Hercules)_Alan_Menken_feat._Roger_Bart.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Go The Distance",
+      "artist": "Michael Bolton",
+      "has_synced": true,
+      "path": "select/08_Go_The_Distance_Michael_Bolton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Go the Distance",
+      "artist": "Michael Bolton",
+      "has_synced": true,
+      "path": "select/09_Go_the_Distance_Michael_Bolton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Go the Distance",
+      "artist": "Roger Bart",
+      "has_synced": true,
+      "path": "select/10_Go_the_Distance_Roger_Bart.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Go The Distance",
+      "artist": "New Rules",
+      "has_synced": true,
+      "path": "select/11_Go_The_Distance_New_Rules.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Go the Distance",
+      "artist": "The White Buffalo",
+      "has_synced": true,
+      "path": "select/12_Go_the_Distance_The_White_Buffalo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Go The Distance",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/13_Go_The_Distance_Various_Artists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Go The Distance",
+      "artist": "Michael Bolton",
+      "has_synced": false,
+      "path": "select/pl_01_Go_The_Distance_Michael_Bolton.txt"
+    }
+  ]
+}
